@@ -10,3 +10,8 @@ Jinja2==2.10
 requests==2.23.0
 
 rasa==1.6.0
+rasa-core==0.14.5
+rasa-core-sdk==0.14.0
+rasa-nlu==0.15.1
+rasa-sdk==1.6.1
+
